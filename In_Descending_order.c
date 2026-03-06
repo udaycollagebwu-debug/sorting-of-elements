@@ -1,3 +1,5 @@
+//sort the array using buble sort in Descanding order.
+
 #include<stdio.h>
 
 int main(){
@@ -23,4 +25,5 @@ for(i=0;i<n;i++){
     printf("%d\t",arr[i]);
 }
     return 0;
+
 }
